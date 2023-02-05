@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Task Hero, an app to gamify chores for kids**
 
-- 🌱 I’m currently learning **MERN, JAVA, Tailwind, Typescript**
+- 🌱 I’m currently learning **C#, JAVA, Tailwind, Typescript**
 
 - 👯 I’m looking to collaborate on **Get Outside, an app for getting kids outside**
 
