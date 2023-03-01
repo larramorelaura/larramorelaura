@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A fun and energetic full stack developer</h3>
 
-- 🔭 I’m currently working on **Task Hero, an app to gamify chores for kids**
+- 🔭 I’m currently working on **Foxie's Math Magic- a unity game to teach kids math**
 
 - 🌱 I’m currently learning **MERN, JAVA, Tailwind, Typescript**
 
