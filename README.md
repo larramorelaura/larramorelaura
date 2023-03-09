@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Foxie's Math Magic- a unity game to teach kids math**
 
-- 🌱 I’m currently learning **MERN, JAVA, Tailwind, Typescript**
+- 🌱 I’m currently learning **JAVA, Tailwind, Typescript**
 
 - 👯 I’m looking to collaborate on **Get Outside, an app for getting kids outside**
 
