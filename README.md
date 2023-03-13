@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Foxie's Math Magic- a unity game to teach kids math**
+- 🔭 I’m currently working on **Homeschool Helper, an app to provide lesson materials based on MAP learning statements for homeschoolers**
 
 - 🌱 I’m currently learning **JAVA, Tailwind, Typescript**
 
